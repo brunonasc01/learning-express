@@ -1,0 +1,14 @@
+{
+  "name": "node.js-task2",
+  "version": "1.0.0",
+  "description": "node course task 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Araujo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
